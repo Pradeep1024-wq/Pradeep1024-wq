@@ -2,7 +2,7 @@
 ### 👀 I’m interested in Java programming language
 ### 🌱 I’m currently learning HTML and CSS
 ### 📫 How to reach me: pradeep.t.2020.cse@ritchennai.edu.in
-### ⚡ Fun fact:* Winners Refuse To Give Up 🌅
+### ⚡ Fun fact: * Winners Refuse To Give Up 🌅
 ###             * If You Have A Talent 👀
 ###             * You Will Be The Real Hero 🤗
 ###             * Be honestly to our self 😇
