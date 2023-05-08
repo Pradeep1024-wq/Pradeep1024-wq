@@ -1,6 +1,7 @@
 ### 👋 Hi, I’m @Pradeep.T
 ### 👀 I’m interested in Java programming language
-### 📫 How to reach me: pradeep.t.2020.cse@ritchennai.edu.in
+### 📫 Mail : pradeep.t.2020.cse@ritchennai.edu.in
+### 📫 Resume : https://pradeep-resume.tiiny.site/
 ### ⚡ Fun fact: * Winners Refuse To Give Up 🌅
 ###             * If You Have A Talent 👀
 ###             * You Will Be The Real Hero 🤗
